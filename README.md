@@ -6,13 +6,13 @@
   <img src="https://komarev.com/ghpvc/?username=starboyagus&color=007ACC&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
-### 🚀 Creative Developer & UI/UX Designer
+### Developer & UI/UX Designer
 
 Welcome to my GitHub profile! I'm a Systems Engineering student with a background in graphic design and UX/UI, focused on design-driven product development.
 
 ---
 
-### 🎵 Music
+### Music
 
 <div align="center">
   <table>
@@ -21,8 +21,8 @@ Welcome to my GitHub profile! I'm a Systems Engineering student with a backgroun
         <img src="images/now-playing.jpg" width="95" height="95" alt="You Me At Six - Take Off Your Colours" />
       </td>
       <td width="280" valign="middle">
-        <b>Save It For The Bedroom</b><br/>
-        <sub><b>You Me At Six</b> — <i>Take Off Your Colours</i></sub>
+        <b>Cherry Pie</b><br/>
+        <sub><b>Warrant</b> — <i>I Saw Red</i></sub>
         <br/><br/>
         <code>⏮️ &nbsp;&nbsp; ⏸️ &nbsp;&nbsp; ⏭️</code>
       </td>
@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a Systems Engineering student with a backgroun
 
 ---
 
-### 👤 About Me
+### About Me
 
 - **Design & Development:** Passionate about UI/UX design, visual aesthetics, and frontend web development.
 - **Currently working on:** Exciting design systems and web projects.
@@ -44,17 +44,17 @@ Welcome to my GitHub profile! I'm a Systems Engineering student with a backgroun
 
 ---
 
-### 🌐 Connect with Me
+### Connect with Me
 
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/agvs) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/starboyagus) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/agus-gil) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agussv360@gmail.com)
 
 ---
 
-### 🛠️ Tools & Technologies
+### Tools & Technologies
 
 #### 🎨 Design & Creative
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=ps&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F57920?style=for-the-badge&logo=blender&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-000000?style=for-the-badge&logo=framer&logoColor=white)
 
 
-#### 💻 Development & Engineering
+#### Development & Engineering
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
